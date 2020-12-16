@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="my_name">Robinnsson Cifuentes Ramírez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola,
+        \n\nTengo 42 años de edad y estoy desarrollando código para Android SO.
+        \n\nEs un camino que he iniciado hace ya un par de meses por un proyecto personal que estamos adelantando con mi esposa, donde nos encontramos trabajando en el diseño y elaboración de una app con la cual pretendemos mejorar la calidad de vida de las personas
+        \n\nEn ese camino hacia el desarrollo de nuestra app me he topado con una experiencia maravillosa, la cual es programar. Esto es un tema que realmente me ha apasionado muchísimo, hasta el punto de emprender con el desarrollo Android.
+        \n\nSoy una persona comprometida con lo que hago, leal a mi equipo, quie busca siempre mantener las mejores relaciones interpersonal y laborales sin negociar mis principios y valores.
+        \n\nEstoy convencido que NUNCA es tarde para empezar de nuevo, para aprender nuevas cosas, para conocer nuevas personas, para iniciar nuevos proyectos.
+        \n\nEn cuanto a mis convicciones espirituales, creo en un ser Supremo de amor, quien nos ve como a sus hijos.
+        \n\nEste es a groso modo un breve resumen sobre quien soy.
+        \n\nLos invito a seguir este proceso.</string>
 </resources>
